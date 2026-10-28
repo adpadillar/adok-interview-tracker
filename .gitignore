@@ -1,0 +1,9 @@
+node_modules/
+.next/
+data/*
+!data/issues.db
+*.tsbuildinfo
+.env*
+!.env.example
+data/*-wal
+data/*-shm
